@@ -2,6 +2,7 @@
 <!--
 	Copyright (C) 2015 The CyanogenMod Project
 	              2017-2021 The LineageOS Project
+	Copyright (C) 2021 MTKOSP (MediaTeK Open Source Project)
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -380,23 +381,6 @@
     <string name="status_bar_brightness_slider_show_always">Həmişə göstər</string>
     <string name="status_bar_toggle_brightness">Parlaqlıq nəzarəti</string>
     <string name="status_bar_toggle_brightness_summary">Vəziyyət sətrinin üzərində sürüşdürərək parlaqlığı nizamla</string>
-    <string name="network_traffic_settings_title">Şəbəkə trafik göstəricisi</string>
-    <string name="network_traffic_settings_summary">Vəziyyət sətrində hazırki şəbəkə trafik səviyyələrini göstər</string>
-    <string name="network_traffic_mode_title">Görüntü rejimi</string>
-    <string name="network_traffic_mode_disable">Sıradan çıxarıldı</string>
-    <string name="network_traffic_mode_up">Yalnız yükləmə</string>
-    <string name="network_traffic_mode_down">Yalnız endirmə</string>
-    <string name="network_traffic_mode_all">Yükləmə və endirmə</string>
-    <string name="network_traffic_autohide">Avtomatik gizlət</string>
-    <string name="network_traffic_autohide_summary">Fəaliyyət olmayanda trafik göstəricisini gizlət</string>
-    <string name="network_traffic_units_title">Trafik ölçü vahidi</string>
-    <string name="network_traffic_units_kilobits">Saniyədə kilobit (kb/s)</string>
-    <string name="network_traffic_units_megabits">Saniyədə megabit (Mb/s)</string>
-    <string name="network_traffic_units_kilobytes">Saniyədə kilobayt (kB/s)</string>
-    <string name="network_traffic_units_megabytes">Saniyədə megabayt (MB/s)</string>
-    <string name="network_traffic_show_units">Vahidləri göstər</string>
-    <string name="network_traffic_show_units_summary">Vəziyyət sətrində trafik ölçmə vahidlərini göstərilib göstərilməyəcəyi</string>
-    <string name="network_traffic_disabled_clock">Saat mövqeyinə görə şəbəkə trafiki sıradan çıxarıldı</string>
     <string name="protected_apps_manager_title">Qorunan tətbiqetmələr</string>
     <string name="protected_apps_manager_summary">Təhlükəsiz kildin arxasında hansı tətbiqlərin gizlədiləcəyini idarə edin</string>
     <string name="contributors_cloud_fragment_title">Töhfə verənlər</string>

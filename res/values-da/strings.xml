@@ -2,6 +2,7 @@
 <!--
 	Copyright (C) 2015 The CyanogenMod Project
 	              2017-2021 The LineageOS Project
+	Copyright (C) 2021 MTKOSP (MediaTeK Open Source Project)
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -340,9 +341,6 @@
     <string name="status_bar_brightness_slider_auto_summary">Vis skifter til adaptiv lysstyrke, nær skyderen</string>
     <string name="status_bar_toggle_brightness">Lysstyrkekontrol</string>
     <string name="status_bar_toggle_brightness_summary">Justér lysstyrken, ved at stryge tværs over statusbjælken</string>
-    <string name="network_traffic_settings_title">Netværkstrafikovervågning</string>
-    <string name="network_traffic_settings_summary">Vis aktuelle netværkstrafikniveauer i statusbjælken</string>
-    <string name="network_traffic_show_units_summary">Hvor vidt trafikmåle-enheder skal vises i statusbjælken</string>
     <string name="protected_apps_manager_title">Beskyttede apps</string>
     <string name="protected_apps_manager_summary">Håndtér, hvilke apps, der er skjult bag en sikker lås</string>
     <string name="contributors_cloud_fragment_title">Bidragydere</string>

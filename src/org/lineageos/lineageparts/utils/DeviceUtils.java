@@ -1,6 +1,7 @@
 /*
  * Copyright (C) 2016 The CyanogenMod project
  *               2017-2020 The LineageOS project
+ * Copyright (C) 2021 MTKOSP (MediaTeK Open Source Project)
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -43,12 +44,6 @@ import android.view.Surface;
 import static org.lineageos.internal.util.DeviceKeysConstants.*;
 
 public class DeviceUtils {
-
-    /* returns whether the device has a notch or not. */
-    public static boolean hasNotch(Context context) {
-        return context.getResources().getBoolean(
-                org.lineageos.platform.internal.R.bool.config_haveNotch);
-    }
 
     public static int getDeviceKeys(Context context) {
         return context.getResources().getInteger(

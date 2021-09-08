@@ -2,6 +2,7 @@
 <!--
 	Copyright (C) 2015 The CyanogenMod Project
 	              2017-2021 The LineageOS Project
+	Copyright (C) 2021 MTKOSP (MediaTeK Open Source Project)
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -97,7 +98,6 @@
     <string name="status_bar_am_pm_normal">Normale</string>
     <string name="status_bar_am_pm_small">Minore</string>
     <string name="status_bar_am_pm_hidden">Cuada</string>
-    <string name="network_traffic_mode_disable">Disabilitadu</string>
     <string name="anonymous_statistics_warning_title">Informatziones</string>
     <string name="preview_version_title">Versione</string>
     <string name="preview_country_title">Istadu</string>

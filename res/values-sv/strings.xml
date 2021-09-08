@@ -2,6 +2,7 @@
 <!--
 	Copyright (C) 2015 The CyanogenMod Project
 	              2017-2021 The LineageOS Project
+	Copyright (C) 2021 MTKOSP (MediaTeK Open Source Project)
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -217,13 +218,6 @@
     <string name="status_bar_brightness_slider_title">Ljusstyrkereglage</string>
     <string name="status_bar_brightness_slider_auto_title">Automatisk ljusstyrka</string>
     <string name="status_bar_toggle_brightness">Ljusstyrkekontroll</string>
-    <string name="network_traffic_mode_title">Visningsläge</string>
-    <string name="network_traffic_mode_disable">Inaktiverat</string>
-    <string name="network_traffic_mode_up">Bara upp</string>
-    <string name="network_traffic_mode_down">Bara ner</string>
-    <string name="network_traffic_mode_all">Uppladdning och nerladdning</string>
-    <string name="network_traffic_autohide">Göm automatiskt</string>
-    <string name="network_traffic_units_kilobits">Kilobits per sekund (kb/s)</string>
     <string name="protected_apps_manager_title">Skyddade appar</string>
     <string name="anonymous_statistics_title">LineageOS statistik</string>
     <string name="anonymous_statistics_warning_title">Om</string>
